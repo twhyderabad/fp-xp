@@ -1,3 +1,5 @@
-let a = 5;
+function main() {
+    console.log("Hello, world!");
+}
 
-console.log(a);
+main();

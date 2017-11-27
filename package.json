@@ -2,7 +2,7 @@
   "name": "fp-xp",
   "version": "0.1.0",
   "description": "Functional XP base code",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "lint": "eslint .",
     "test": "ava"
