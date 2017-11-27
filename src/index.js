@@ -1,5 +1,6 @@
 function main() {
-    console.log("Hello, world!");
+  let c = 10;
+  console.log(c);
 }
 
 main();
