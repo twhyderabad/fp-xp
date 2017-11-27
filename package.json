@@ -4,7 +4,7 @@
   "description": "Functional XP base code",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint",
+    "lint": "eslint .",
     "test": "ava"
   },
   "repository": {
