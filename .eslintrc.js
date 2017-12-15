@@ -9,6 +9,7 @@ module.exports = {
         "immutable/no-this": 2,
         "immutable/no-mutation": 2,
         "no-console": 0,
+        "linebreak-style": 0,
     },
     "parserOptions": {
         "sourceType": "module"
